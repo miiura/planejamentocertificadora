@@ -1,2 +1,8 @@
-# planejamentocertificadora
-para a hospedagem do planejamento em um lugar que não seja o repositório principal do projeto
+# certificadora
+Projeto referente à matéria Certificadora de Competência Comum
+
+integrantes:  Alexandre Saito Bertão, Fabrício Custódio da Silva, Leda Alexandre Miura e Matheus José Rossieri
+
+
+LINK DO PLANEJAMENTO: https://miiura.github.io/certificadora
+
